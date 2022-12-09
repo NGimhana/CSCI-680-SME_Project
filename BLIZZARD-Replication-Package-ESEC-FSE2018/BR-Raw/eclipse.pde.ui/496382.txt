@@ -1,3 +1,0 @@
-Bug 496382 – New Eclipse.app layout: Add-API Baseline" doesn't accept app bundle
-In macos,  Add-API Baseline" doesn't accept app bundle.
-See Bug 462404 for a similar problem

@@ -1,2 +1,0 @@
-java/org/apache/catalina/ha/deploy/FarmWarDeployer.java
-java/org/apache/catalina/ha/deploy/FileMessageFactory.java

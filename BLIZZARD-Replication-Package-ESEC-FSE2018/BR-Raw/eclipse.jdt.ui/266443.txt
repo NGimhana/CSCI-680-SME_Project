@@ -1,3 +1,0 @@
-Bug 266443 – [navigation] JavaElementImplementationHyperlink does not work for method declarations
-HEAD.
-The JavaElementImplementationHyperlink does not work for method declarations: it always opens the Quick Hierarchy.

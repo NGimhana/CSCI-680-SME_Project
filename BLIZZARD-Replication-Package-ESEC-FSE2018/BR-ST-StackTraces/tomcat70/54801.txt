@@ -1,2 +1,0 @@
-org.apache.jasper.compiler.JspDocumentParser.checkScriptingBody
-org.apache.jasper.compiler.JspDocumentParser.endElement

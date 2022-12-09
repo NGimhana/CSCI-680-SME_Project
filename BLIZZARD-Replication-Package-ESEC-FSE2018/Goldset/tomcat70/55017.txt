@@ -1,3 +1,0 @@
-java/org/apache/catalina/mbeans/JmxRemoteLifecycleListener.java
-java/org/apache/catalina/mbeans/LocalStrings.properties
-webapps/docs/config/listeners.xml

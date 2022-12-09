@@ -1,2 +1,0 @@
-modules/jdbc-pool/src/test/java/org/apache/tomcat/jdbc/test/TestSlowQueryComparator.java
-modules/jdbc-pool/src/main/java/org/apache/tomcat/jdbc/pool/interceptor/SlowQueryReport.java

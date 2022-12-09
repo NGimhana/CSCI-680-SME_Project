@@ -1,2 +1,0 @@
-org.eclipse.jdt.apt.core/src/org/eclipse/jdt/apt/core/internal/generatedfile/GeneratedFileManager.java
-org.eclipse.jdt.apt.core/src/org/eclipse/jdt/apt/core/internal/generatedfile/CompilationUnitHelper.java

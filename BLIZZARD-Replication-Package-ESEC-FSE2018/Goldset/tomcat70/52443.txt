@@ -1,3 +1,0 @@
-java/org/apache/catalina/startup/Tomcat.java
-test/org/apache/catalina/mbeans/TestRegistration.java
-webapps/docs/changelog.xml

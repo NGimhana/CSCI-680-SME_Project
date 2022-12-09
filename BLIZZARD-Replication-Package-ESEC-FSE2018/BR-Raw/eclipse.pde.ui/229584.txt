@@ -1,3 +1,0 @@
-Bug 229584 – Compute dependencies on a feature is broken
-Chris, fixing bug 215579 you introduced some really weird bugs :)
-See attached patch

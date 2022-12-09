@@ -1,8 +1,0 @@
-org.eclipse.pde.ui.tests.imports.BaseImportTestCase.verifyProject
-org.eclipse.pde.ui.tests.imports.ImportFromRepoTestCase.verifyProject
-org.eclipse.pde.ui.tests.imports.BaseImportTestCase.verifyProject
-org.eclipse.pde.ui.tests.imports.BaseImportTestCase.doSingleImport
-org.eclipse.pde.ui.tests.imports.ImportFromRepoTestCase.testImportOrgEclipsePdeUaUi
-org.eclipse.test.EclipseTestRunner.run
-org.eclipse.test.EclipseTestRunner.run
-org.eclipse.test.UITestApplication$2.run

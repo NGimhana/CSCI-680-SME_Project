@@ -1,3 +1,0 @@
-java/org/apache/catalina/authenticator/FormAuthenticator.java
-java/org/apache/catalina/authenticator/LocalStrings.properties
-webapps/docs/changelog.xml

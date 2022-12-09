@@ -1,2 +1,0 @@
-org.eclipse.jdt.ui.tests.packageHover.PackageJavadocTests.testGetPackageAttacheddoc
-org.eclipse.jdt.ui.tests.packageHover.PackageJavadocTests.testFailToAccessAttachedJavadoc

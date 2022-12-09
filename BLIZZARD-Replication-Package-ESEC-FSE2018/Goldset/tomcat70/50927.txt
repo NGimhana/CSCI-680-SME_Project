@@ -1,3 +1,0 @@
-java/org/apache/tomcat/util/net/AprEndpoint.java
-java/org/apache/tomcat/util/net/res/LocalStrings.properties
-webapps/docs/changelog.xml

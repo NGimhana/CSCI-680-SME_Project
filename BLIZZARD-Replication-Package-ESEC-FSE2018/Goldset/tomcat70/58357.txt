@@ -1,3 +1,0 @@
-java/org/apache/coyote/http11/LocalStrings.properties
-java/org/apache/coyote/http11/InternalAprInputBuffer.java
-webapps/docs/changelog.xml

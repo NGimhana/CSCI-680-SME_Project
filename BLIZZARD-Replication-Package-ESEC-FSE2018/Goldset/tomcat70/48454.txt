@@ -1,3 +1,0 @@
-conf/web.xml
-java/org/apache/catalina/servlets/CGIServlet.java
-webapps/docs/cgi-howto.xml

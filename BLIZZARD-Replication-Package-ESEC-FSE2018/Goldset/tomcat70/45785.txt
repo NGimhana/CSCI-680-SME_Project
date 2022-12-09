@@ -1,2 +1,0 @@
-java/org/apache/catalina/loader/WebappLoader.java
-java/org/apache/catalina/util/ExtensionValidator.java

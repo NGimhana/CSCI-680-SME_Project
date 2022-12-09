@@ -1,4 +1,0 @@
-org.eclipse.ecf.internal.ui.actions.SelectProviderAction.<init>
-org.eclipse.core.internal.registry.osgi.RegistryStrategyOSGI.createExecutableExtension
-org.eclipse.core.internal.registry.ExtensionRegistry.createExecutableExtension
-org.eclipse.core.internal.registry.ConfigurationElement.createExecutableExtension

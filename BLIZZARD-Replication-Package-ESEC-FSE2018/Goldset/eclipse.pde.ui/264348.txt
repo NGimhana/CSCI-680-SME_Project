@@ -1,3 +1,0 @@
-ui/org.eclipse.pde.ui.tests/src/org/eclipse/pde/ui/tests/util/DOMParserWrapper.java
-ui/org.eclipse.pde.ui.tests/META-INF/MANIFEST.MF
-ui/org.eclipse.pde.ui.tests/src/org/eclipse/pde/ui/tests/util/xml/ParserWrapperTestCase.java

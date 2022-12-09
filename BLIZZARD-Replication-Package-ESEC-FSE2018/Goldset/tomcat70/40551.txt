@@ -1,2 +1,0 @@
-java/org/apache/catalina/ha/session/JvmRouteBinderValve.java
-java/org/apache/catalina/ha/session/LocalStrings.properties

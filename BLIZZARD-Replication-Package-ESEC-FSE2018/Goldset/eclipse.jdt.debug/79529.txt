@@ -1,2 +1,0 @@
-org.eclipse.jdt.debug.ui/ui/org/eclipse/jdt/internal/debug/ui/actions/StepIntoSelectionUtils.java
-org.eclipse.jdt.debug.ui/ui/org/eclipse/jdt/internal/debug/ui/actions/StepIntoSelectionActionDelegate.java

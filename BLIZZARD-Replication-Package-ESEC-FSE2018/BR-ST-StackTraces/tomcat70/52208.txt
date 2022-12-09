@@ -1,3 +1,0 @@
-org.apache.catalina.tribes.transport.nio.NioReceiver.listen
-org.apache.catalina.tribes.transport.nio.NioReceiver.run
-java.lang.Thread.run

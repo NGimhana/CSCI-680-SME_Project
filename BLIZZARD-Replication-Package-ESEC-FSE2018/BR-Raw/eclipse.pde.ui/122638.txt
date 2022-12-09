@@ -1,3 +1,0 @@
-Bug 122638 – Mark deprecated extensions and attributes in generated schema doc
-I20060103-0800
-Mark deprecated extensions and attributes in generated schema doc

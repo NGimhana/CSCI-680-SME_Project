@@ -1,4 +1,0 @@
-org.eclipse.jdt.core.dom.TypeBinding.isLocal
-org.eclipse.jdt.core.dom.TypeBinding.getKey
-org.eclipse.jdt.core.dom.TypeBinding.getKey
-org.eclipse.jdt.core.dom.TypeBinding.getKey

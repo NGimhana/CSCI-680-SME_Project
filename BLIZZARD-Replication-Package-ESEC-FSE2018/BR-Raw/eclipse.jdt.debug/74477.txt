@@ -1,2 +1,0 @@
-Bug 74477 – Empty display view state persisted
-The display view persists its state when the document is empty.

@@ -1,2 +1,0 @@
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/PDEExtensionRegistry.java
-ui/org.eclipse.pde.core/src/org/eclipse/pde/internal/core/plugin/AbstractExtensions.java

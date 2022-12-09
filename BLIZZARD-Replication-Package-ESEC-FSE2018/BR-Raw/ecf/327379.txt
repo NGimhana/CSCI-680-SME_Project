@@ -1,3 +1,0 @@
-Bug 327379 – Make IRemoteCallFactory
-We need common factory for RemoteCalls.
-o.e.e.remoteservice.rest contains its own RestCallFactory, this factory can be example for RemoteCallFactory.

@@ -1,2 +1,0 @@
-webapps/docs/realm-howto.xml
-java/org/apache/catalina/realm/JNDIRealm.java

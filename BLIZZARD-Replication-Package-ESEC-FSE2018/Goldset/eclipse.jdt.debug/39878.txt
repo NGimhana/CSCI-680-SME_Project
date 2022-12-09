@@ -1,3 +1,0 @@
-org.eclipse.jdt.debug.tests/tests/org/eclipse/jdt/debug/tests/AutomatedSuite.java
-org.eclipse.jdt.debug.tests/test plugin/org/eclipse/jdt/debug/testplugin/DebugEventWaiter.java
-org.eclipse.jdt.debug.tests/tests/org/eclipse/jdt/debug/tests/core/LocalVariableTests.java

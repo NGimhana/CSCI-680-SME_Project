@@ -1,3 +1,0 @@
-Bug 265412 – [Discovery][Composite] Clear all nested discovery containers and unset targetID when CompositeDiscoveryContainer gets disposed
-org.eclipse.ecf.provider.discovery.CompositeDiscoveryContainer does not clear the list of nested discovery containers.
-Nor does it unset the targetId that signals disposition.

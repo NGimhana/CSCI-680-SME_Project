@@ -1,3 +1,0 @@
-java/org/apache/catalina/mbeans/MBeanUtils.java
-java/org/apache/catalina/mbeans/ServerLifecycleListener.java
-java/org/apache/catalina/connector/MapperListener.java

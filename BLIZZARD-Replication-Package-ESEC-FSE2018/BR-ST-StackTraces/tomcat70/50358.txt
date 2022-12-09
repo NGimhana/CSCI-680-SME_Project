@@ -1,3 +1,0 @@
-org.apache.catalina.util.LifecycleBase.invalidTransition
-org.apache.catalina.util.LifecycleBase.stop
-de.javakaffee.web.msm.MemcachedSessionManagerIntegrationTest.tearDown

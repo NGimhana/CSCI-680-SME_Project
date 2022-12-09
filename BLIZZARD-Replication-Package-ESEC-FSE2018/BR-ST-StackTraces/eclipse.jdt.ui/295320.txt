@@ -1,3 +1,0 @@
-org.eclipse.jdt.internal.corext.refactoring.structure.ChangeSignatureProcessor.createExceptionInfoList
-org.eclipse.jdt.internal.corext.refactoring.structure.ChangeSignatureProcessor.checkInitialConditions
-org.eclipse.jdt.internal.corext.refactoring.RefactoringExecutionStarter.startChangeSignatureRefactoring

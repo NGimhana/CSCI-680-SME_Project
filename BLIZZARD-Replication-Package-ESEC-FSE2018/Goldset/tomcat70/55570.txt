@@ -1,3 +1,0 @@
-embed-webapps/examples.war
-java/org/apache/catalina/authenticator/SpnegoAuthenticator.java
-webapps/docs/changelog.xml

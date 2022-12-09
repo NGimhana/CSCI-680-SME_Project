@@ -1,2 +1,0 @@
-Bug 16196 – SnippetEditorActionContributor#setActiveEditor can be called with null
-We have code that will fail.

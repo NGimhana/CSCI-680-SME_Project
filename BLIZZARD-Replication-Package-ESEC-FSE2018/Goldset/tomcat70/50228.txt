@@ -1,2 +1,0 @@
-java/org/apache/jasper/runtime/PageContextImpl.java
-java/org/apache/jasper/runtime/BodyContentImpl.java

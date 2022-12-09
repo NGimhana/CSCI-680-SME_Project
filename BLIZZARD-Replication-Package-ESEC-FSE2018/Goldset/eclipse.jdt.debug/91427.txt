@@ -1,3 +1,0 @@
-org.eclipse.jdt.debug/jdi/org/eclipse/jdi/internal/LocalVariableImpl.java
-org.eclipse.jdt.debug/jdi/org/eclipse/jdi/internal/ArrayTypeImpl.java
-org.eclipse.jdt.debug/jdi/org/eclipse/jdi/internal/FieldImpl.java

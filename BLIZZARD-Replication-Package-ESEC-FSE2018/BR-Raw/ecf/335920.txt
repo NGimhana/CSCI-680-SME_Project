@@ -1,3 +1,0 @@
-Bug 335920 – [remoteserviceadmin] fix EndpointDescriptionLocator registering two service listeners
-Currently, the RSA impl registers two EndpointDescriptionLocator instances upon start/configuration.
- This is incorrect...it should only register one for each IDiscoveryLocator discovery provider.

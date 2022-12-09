@@ -1,2 +1,0 @@
-org.eclipse.ltk.core.refactoring/src/org/eclipse/ltk/core/refactoring/participants/DeleteArguments.java
-org.eclipse.ltk.core.refactoring/src/org/eclipse/ltk/internal/core/refactoring/resource/DeleteResourcesProcessor.java

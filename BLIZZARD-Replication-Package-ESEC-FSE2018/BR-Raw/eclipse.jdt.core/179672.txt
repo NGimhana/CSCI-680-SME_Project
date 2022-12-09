@@ -1,1 +1,0 @@
-Bug 179672 – [assist] Only one assertion method should be called by completion parser test

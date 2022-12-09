@@ -1,3 +1,0 @@
-org.eclipse.ecf.presence.ui.chatroom.ChatRoomManagerView$ChatRoomTab.access$0
-org.eclipse.ecf.presence.ui.chatroom.ChatRoomManagerView$15.widgetSelected
-org.eclipse.swt.widgets.TypedListener.handleEvent

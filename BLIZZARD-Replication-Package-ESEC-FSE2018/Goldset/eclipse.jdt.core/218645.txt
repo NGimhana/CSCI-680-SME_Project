@@ -1,3 +1,0 @@
-org.eclipse.jdt.core/dom/org/eclipse/jdt/core/dom/ITypeBinding.java
-org.eclipse.jdt.core/dom/org/eclipse/jdt/core/dom/ITypeBinding.java
-org.eclipse.jdt.core/dom/org/eclipse/jdt/core/dom/TypeBinding.java

@@ -1,2 +1,0 @@
-org.apache.catalina.deploy.WebXml.orderWebFragments
-org.apache.catalina.deploy.TestWebXmlOrdering.testOrderWebFragmentsRelative4

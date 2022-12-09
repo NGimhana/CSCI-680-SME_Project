@@ -1,3 +1,0 @@
-org.eclipse.jdt.debug.tests/tests/org/eclipse/jdt/debug/tests/performance/PerfConditionalBreakpointsTests.java
-org.eclipse.jdt.debug.tests/.classpath
-org.eclipse.jdt.debug.tests/tests/org/eclipse/jdt/debug/tests/AbstractDebugTest.java

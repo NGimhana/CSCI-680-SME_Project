@@ -1,3 +1,0 @@
-Bug 264720 – Remove duplicate creation of comparator in WorkingSetConfigurationDialog
-N20090212-2000.
-Remove duplicate creation of comparator in WorkingSetConfigurationDialog: create a getComparator() which lazily creates it and stores it in a field.

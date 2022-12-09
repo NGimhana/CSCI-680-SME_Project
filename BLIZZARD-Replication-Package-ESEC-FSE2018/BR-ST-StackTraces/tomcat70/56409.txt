@@ -1,5 +1,0 @@
-org.apache.catalina.startup.TldConfig.tldScanResourcePaths
-org.apache.catalina.startup.TldConfig.tldScanResourcePaths
-org.apache.catalina.startup.TldConfig.tldScanResourcePaths
-org.apache.catalina.startup.TldConfig.tldScanResourcePaths
-org.apache.catalina.startup.TldConfig.tldScanResourcePaths

@@ -1,3 +1,0 @@
-Bug 77193 – Properties File Editor doesn't show QuickDiff hovers
-I200410260800
-The Properties File Editor doesn't show QuickDiff hovers.

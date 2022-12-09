@@ -1,2 +1,0 @@
-java/org/apache/catalina/core/ApplicationFilterFactory.java
-java/org/apache/catalina/deploy/FilterMap.java

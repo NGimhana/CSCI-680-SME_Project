@@ -1,1 +1,0 @@
-Bug 33534 – Ant Editor: range indication not supported

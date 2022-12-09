@@ -1,2 +1,0 @@
-webapps/examples/WEB-INF/classes/CookieExample.java
-webapps/docs/changelog.xml

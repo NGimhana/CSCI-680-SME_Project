@@ -1,3 +1,0 @@
-java/org/apache/catalina/core/ApplicationHttpRequest.java
-test/org/apache/catalina/core/TestApplicationHttpRequest.java
-webapps/docs/changelog.xml

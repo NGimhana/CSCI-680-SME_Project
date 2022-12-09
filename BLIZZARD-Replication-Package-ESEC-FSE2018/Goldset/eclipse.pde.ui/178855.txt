@@ -1,3 +1,0 @@
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/refactoring/RenamePluginProcessor.java
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/refactoring/RenamePluginWizardPage.java
-ui/org.eclipse.pde.ui/src/org/eclipse/pde/internal/ui/refactoring/RenameProjectChange.java

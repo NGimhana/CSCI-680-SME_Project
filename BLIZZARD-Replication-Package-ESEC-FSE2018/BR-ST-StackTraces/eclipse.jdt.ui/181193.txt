@@ -1,3 +1,0 @@
-org.eclipse.jdt.internal.ui.javaeditor.JavaEditor.isMarkingOccurrences
-org.eclipse.jdt.internal.ui.javaeditor.ClassFileEditor$3.run
-org.eclipse.core.internal.jobs.Worker.run

@@ -1,1 +1,0 @@
-org.eclipse.jdt.jeview/src/org/eclipse/jdt/jeview/properties/JavaElementProperties.java

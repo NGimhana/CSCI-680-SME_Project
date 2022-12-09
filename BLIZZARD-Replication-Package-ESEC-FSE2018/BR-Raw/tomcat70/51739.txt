@@ -1,1 +1,0 @@
-51739 – If landingpage is a XHTML (JSF/CDI), nullpointer exception.

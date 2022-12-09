@@ -1,4 +1,0 @@
-Bug 30516 – typo in javadoc of IPackageFragmentRoot:isArchive
-"package ragment"
-should be
-"package fragment"

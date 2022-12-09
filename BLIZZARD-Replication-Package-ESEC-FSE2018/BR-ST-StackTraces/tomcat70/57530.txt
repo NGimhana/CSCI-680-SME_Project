@@ -1,2 +1,0 @@
-org.apache.coyote.http11.TestAbstractHttp11Processor.doTestNon2xxResponseAndExpectation
-org.apache.coyote.http11.TestAbstractHttp11Processor.testNon2xxResponseWithExpectation

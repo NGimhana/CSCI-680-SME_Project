@@ -1,2 +1,0 @@
-webapps/docs/changelog.xml
-java/org/apache/jasper/servlet/JspServlet.java

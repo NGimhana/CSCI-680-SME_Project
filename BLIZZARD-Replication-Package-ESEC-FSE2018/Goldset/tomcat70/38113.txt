@@ -1,2 +1,0 @@
-java/org/apache/catalina/connector/Request.java
-test/org/apache/catalina/connector/TestRequest.java

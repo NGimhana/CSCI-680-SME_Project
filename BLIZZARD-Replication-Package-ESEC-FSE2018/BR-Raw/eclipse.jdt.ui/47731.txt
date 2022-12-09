@@ -1,3 +1,0 @@
-Bug 47731 – JUnit view leaks 2 Colors
-M5
-Repeated opening and closing of the JUnit view leaks 2 SWT Colors each time

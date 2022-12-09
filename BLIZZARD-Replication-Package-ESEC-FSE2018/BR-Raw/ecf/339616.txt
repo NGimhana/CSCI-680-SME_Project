@@ -1,3 +1,0 @@
-Bug 339616 – [remoteservices] AbstractClientContainer registerCallables has problem
-In AbstractClientContainer.registerCallables the notification of listeners (of registration events, should occur *after* adding the callables to the registry.
- Currently it occurs before.

@@ -1,3 +1,0 @@
-ui/org.eclipse.pde.runtime/src/org/eclipse/pde/internal/runtime/registry/model/ModelObject.java
-ui/org.eclipse.pde.runtime/src/org/eclipse/pde/internal/runtime/registry/model/ServiceName.java
-ui/org.eclipse.pde.runtime/src/org/eclipse/pde/internal/runtime/registry/model/ServiceRegistration.java

@@ -1,3 +1,0 @@
-Bug 13364 – No visual indication that a breakpoint has a condition set
-The only way to tell that a breakpoint has a condition set is via the
-properties dialog

@@ -1,3 +1,0 @@
-java/org/apache/catalina/authenticator/DigestAuthenticator.java
-test/org/apache/catalina/authenticator/TestDigestAuthenticator.java
-webapps/docs/changelog.xml

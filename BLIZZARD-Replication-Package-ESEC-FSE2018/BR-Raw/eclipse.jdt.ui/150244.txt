@@ -1,2 +1,0 @@
-Bug 150244 – [API] Add getBytes() on IClassFile
-R3.2

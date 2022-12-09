@@ -1,2 +1,0 @@
-Bug 350290 – Remove FlowInfo#fExceptions and everything that refers to it
-See bug 348883 comment 4.

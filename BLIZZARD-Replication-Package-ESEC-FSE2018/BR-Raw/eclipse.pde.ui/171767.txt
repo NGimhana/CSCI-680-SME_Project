@@ -1,3 +1,0 @@
-Bug 171767 – Main tab of PDE launch configurations is cut with bigger dialog font
-I20070123-1715
-Main tab of PDE launch configurations is cut if a bigger dialog font is used.

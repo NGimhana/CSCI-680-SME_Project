@@ -1,3 +1,0 @@
-ui/org.eclipse.pde.core/src_ant/org/eclipse/pde/internal/core/ant/PluginExportTask.java
-ui/org.eclipse.pde.core/src_ant/org/eclipse/pde/internal/core/ant/FeatureExportTask.java
-ui/org.eclipse.pde.core/src_ant/org/eclipse/pde/internal/core/ant/BaseExportTask.java

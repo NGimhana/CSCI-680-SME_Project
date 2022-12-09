@@ -1,2 +1,0 @@
-java/org/apache/catalina/connector/CoyoteAdapter.java
-java/org/apache/catalina/connector/LocalStrings.properties

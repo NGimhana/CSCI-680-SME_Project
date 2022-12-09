@@ -1,2 +1,0 @@
-org.eclipse.jdt.debug.tests/plugin.xml
-org.eclipse.jdt.debug.tests/console tests/org/eclipse/jdt/debug/tests/console/TestBufferredOutputActionDelegate.java

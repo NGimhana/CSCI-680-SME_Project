@@ -1,2 +1,0 @@
-java/org/apache/catalina/core/ApplicationFilterChain.java
-java/org/apache/catalina/security/SecurityUtil.java

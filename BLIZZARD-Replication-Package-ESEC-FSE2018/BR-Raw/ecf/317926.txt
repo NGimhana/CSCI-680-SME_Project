@@ -1,2 +1,0 @@
-Bug 317926 – [Discovery][DNS-SD] Localize bundle (NLS)
-[Discovery][DNS-SD] Localize bundle (NLS)

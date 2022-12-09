@@ -1,3 +1,0 @@
-java/org/apache/tomcat/util/file/ConfigFileLoader.java
-java/org/apache/tomcat/util/file/LocalStrings.properties
-webapps/docs/changelog.xml
