@@ -1,0 +1,10 @@
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/webview/java/org/mozilla/focus/web/WebViewProvider.java	0
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/testWebview/java/org/mozilla/focus/web/WebViewProviderTest.java	1
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/java/org/mozilla/focus/widget/LocaleListPreference.java	2
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/androidTestWebview/java/org/mozilla/focus/privacy/WebViewDataTest.java	3
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/java/org/mozilla/focus/browser/LocalizedContent.java	4
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/webview/java/org/mozilla/focus/webview/ErrorPage.java	5
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/webview/java/org/mozilla/focus/webview/FocusWebViewClient.java	6
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/androidTestWebview/java/org/mozilla/focus/activity/PageVisitTest.java	7
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/androidTest/java/org/mozilla/focus/activity/AddtoHSTest.java	8
+1073	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/java/org/mozilla/focus/locale/Locales.java	9

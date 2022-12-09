@@ -1,0 +1,37 @@
+{
+	"id": "273",
+	"confidence_level": "confident",
+	"bug_location": [
+	{
+		"commit_ids": ["6d006a30219a3a1b42dd835119d08cb797ed6203"],
+		"file_name": "Anki-Android/AnkiDroid/src/main/java/com/ichi2/anki/Previewer.java",
+		"method_name": "@Override protected void onCreate(Bundle savedInstanceState)",
+		"line_numbers": null
+	},
+	{
+		"commit_ids": ["6d006a30219a3a1b42dd835119d08cb797ed6203"],
+		"file_name": "Anki-Android/AnkiDroid/src/main/java/com/ichi2/anki/Previewer.java",
+		"method_name": "@Override protected void onCollectionLoaded(Collection col)",
+		"line_numbers": ["61"]
+	}],
+	"fix_location": [
+	{
+		"commit_ids": ["6353417ec7cc8fab27b4356095bd8b88b6e9b130"],
+		"file_name": "Anki-Android/AnkiDroid/src/main/java/com/ichi2/anki/Previewer.java",
+		"method_name": "@Override protected void onCreate(Bundle savedInstanceState)",
+		"line_numbers": ["47-50"]
+	},
+	{
+		"commit_ids": ["6353417ec7cc8fab27b4356095bd8b88b6e9b130"],
+		"file_name": "Anki-Android/AnkiDroid/src/main/java/com/ichi2/anki/Previewer.java",
+		"method_name": "@Override protected void onCollectionLoaded(Collection col)",
+		"line_numbers": ["67-72"]
+	},
+	{
+		"commit_ids": ["6353417ec7cc8fab27b4356095bd8b88b6e9b130"],
+		"file_name": "Anki-Android/AnkiDroid/src/main/java/com/ichi2/anki/Previewer.java",
+		"method_name": "@Override protected void onSaveInstanceState(Bundle outState)",
+		"line_numbers": ["90-95"]
+	}],
+	"unit_test_changes": null
+}

@@ -1,0 +1,4 @@
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-53/app/src/main/java/net/gsantner/markor/ui/NewFileDialog.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-53/app/src/main/java/net/gsantner/markor/util/AppSettings.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-53/app/src/main/java/net/gsantner/markor/util/AppSettings.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-53/app/src/main/res/values/string-not_translatable.xml

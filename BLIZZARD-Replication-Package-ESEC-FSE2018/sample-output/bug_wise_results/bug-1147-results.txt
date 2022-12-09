@@ -1,0 +1,10 @@
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/NavigationDrawerFragment.java	0
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/GpsTestActivity.java	1
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/view/ScrimInsetsScrollView.java	2
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/GpsSkyFragment.java	3
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/util/GpsTestUtil.java	4
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/Preferences.java	5
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/GpsMapFragment.java	6
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/Application.java	7
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/test/java/com/android/gpstest/GpsTestUtilTest.java	8
+1147	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/util/GnssType.java	9

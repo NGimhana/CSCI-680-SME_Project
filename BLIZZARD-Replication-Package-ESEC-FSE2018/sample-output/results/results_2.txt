@@ -1,0 +1,80 @@
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-2
+Hit@2 Accuracy: 0.0
+MRR@2: 0.0
+MAP@2: 0.0
+Time elapsed:1 seconds
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-8
+Hit@2 Accuracy: 0.0
+MRR@2: 0.0
+MAP@2: 0.0
+Time elapsed:1 seconds
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-10
+Hit@2 Accuracy: 0.0
+MRR@2: 0.0
+MAP@2: 0.0
+Time elapsed:1 seconds
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-18
+Hit@2 Accuracy: 0.0
+MRR@2: 0.0
+MAP@2: 0.0
+Time elapsed:1 seconds
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-53
+Hit@2 Accuracy: 0.0
+MRR@2: 0.0
+MAP@2: 0.0
+Time elapsed:1 seconds
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-128
+Hit@2 Accuracy: 0.0
+MRR@2: 0.0
+MAP@2: 0.0
+Time elapsed:1 seconds
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-209
+Hit@2 Accuracy: 1.0
+MRR@2: 0.5
+MAP@2: 0.5
+Time elapsed:1 seconds
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-1073
+Hit@2 Accuracy: 0.0
+MRR@2: 0.0
+MAP@2: 0.0
+Time elapsed:1 seconds
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-1096
+Hit@2 Accuracy: 0.0
+MRR@2: 0.0
+MAP@2: 0.0
+Time elapsed:1 seconds
+Collection of results started. Please wait..
+Localization results collected successfully :-)
+Bug Localization Performance:
+System: bug-1147
+Hit@2 Accuracy: 1.0
+MRR@2: 1.0
+MAP@2: 1.0
+Time elapsed:1 seconds

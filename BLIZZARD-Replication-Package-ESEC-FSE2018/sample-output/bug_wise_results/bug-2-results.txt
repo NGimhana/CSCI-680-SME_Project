@@ -1,0 +1,10 @@
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/chart/service/converter/OperationConverter.java	0
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/chart/dialog/ChartDisplayDialog.java	1
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/core/dialog/EntityFilterDialog.java	2
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/androidTest/java/io/github/zwieback/familyfinance/ExampleInstrumentedTest.java	3
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/validator/src/main/java/com/johnpetitto/validator/ValidatingTextInputLayout.java	4
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/chart/activity/ChartActivity.java	5
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/chart/listener/ChartDisplayListener.java	6
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/shared/src/main/java/io/github/zwieback/familyfinance/dialog/DatePickerFragmentDialog.java	7
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/iconics/fragment/item/SpaceItemDecoration.java	8
+2	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/chart/fragment/PieChartFragment.java	9

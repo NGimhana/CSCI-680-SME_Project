@@ -1,0 +1,10 @@
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/library/src/main/java/com/handmark/pulltorefresh/library/PullToRefreshListView.java	0
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/iNaturalist/src/main/java/org/inaturalist/android/ObservationEditor.java	1
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/iNaturalist/src/main/java/org/inaturalist/android/INaturalistService.java	2
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/iNaturalist/src/main/java/org/inaturalist/android/BaseFragmentActivity.java	3
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/iNaturalist/src/main/java/org/inaturalist/android/SignInTask.java	4
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/iNaturalist/src/main/java/org/inaturalist/android/SoundRecorder.java	5
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/iNaturalist/src/main/java/org/inaturalist/android/AnalyticsClient.java	6
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/iNaturalist/src/main/java/org/inaturalist/android/TutorialFragment.java	7
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/iNaturalist/src/main/java/org/inaturalist/android/WebActivity.java	8
+1096	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1096/iNaturalist/src/main/java/org/inaturalist/android/BaseTab.java	9

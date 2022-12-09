@@ -1,0 +1,6 @@
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/common/widget/tab/BlockableViewPager.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/trickytripper/TrickyTripperActivity.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/trickytripper/TrickyTripperActivity.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/res/layout/tricky_tripper_main_view.xml
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/res/raw-de/changelog.txt
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/res/raw/changelog.txt

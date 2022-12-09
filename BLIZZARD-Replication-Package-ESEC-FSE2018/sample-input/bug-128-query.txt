@@ -1,0 +1,1 @@
+128	general switching language bug working app steps android lang region github crowdin version version source hub git app expected switching rlangregion values regionalized english disabled expected reproduce falling display result

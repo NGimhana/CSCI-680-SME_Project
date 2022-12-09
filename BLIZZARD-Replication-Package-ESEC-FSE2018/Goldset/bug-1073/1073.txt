@@ -1,0 +1,9 @@
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/AndroidManifest.xml
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/java/org/mozilla/focus/activity/InfoActivity.kt
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/java/org/mozilla/focus/browser/LocalizedContent.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/java/org/mozilla/focus/browser/LocalizedContent.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/java/org/mozilla/focus/fragment/InfoFragment.kt
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/java/org/mozilla/focus/settings/MozillaSettingsFragment.kt
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/res/layout/activity_info.xml
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/res/layout/fragment_info.xml
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1073/app/src/main/res/xml/mozilla_settings.xml

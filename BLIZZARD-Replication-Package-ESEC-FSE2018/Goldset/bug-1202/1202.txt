@@ -1,0 +1,7 @@
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1202/app/src/main/java/swati4star/createpdf/activity/ImageEditor.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1202/app/src/main/java/swati4star/createpdf/activity/ImageEditor.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1202/app/src/main/java/swati4star/createpdf/activity/ImageEditor.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1202/app/src/main/java/swati4star/createpdf/activity/ImageEditor.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1202/app/src/main/java/swati4star/createpdf/activity/ImageEditor.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1202/app/src/main/java/swati4star/createpdf/activity/ImageEditor.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1202/app/src/main/java/swati4star/createpdf/activity/ImageEditor.java

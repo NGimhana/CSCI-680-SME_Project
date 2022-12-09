@@ -1,0 +1,1 @@
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1207/app/src/main/java/org/shadowice/flocke/andotp/View/ManualEntryDialog.java

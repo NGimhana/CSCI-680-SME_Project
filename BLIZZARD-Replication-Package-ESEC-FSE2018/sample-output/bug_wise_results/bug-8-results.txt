@@ -1,0 +1,10 @@
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/common/ascii/AsciTable.java	0
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/common/ascii/AsciToStringHelper.java	1
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/common/utils/NumberUtils.java	2
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/test/java/de/koelle/christian/common/utils/MiscUtils.java	3
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/trickytripper/activities/PaymentTabActivity.java	4
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/common/options/OptionsSupport.java	5
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/trickytripper/activitysupport/TabDialogSupport.java	6
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/androidTest/java/de/koelle/christian/trickytripper/dataaccess/manual/exchangerateimport/FullCurrencyImportTest.java	7
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/main/java/de/koelle/christian/common/ascii/AsciTableLayoutTableInterface.java	8
+8	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-8/app/src/test/java/de/koelle/christian/common/ascii/Table2AsiiTest.java	9

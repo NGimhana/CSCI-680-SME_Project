@@ -1,0 +1,10 @@
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/androidTest/java/es/usc/citius/servando/calendula/activities/MedicinesActivityCreateTest.java	0
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/main/java/es/usc/citius/servando/calendula/pinlock/PinLockActivity.java	1
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/main/java/es/usc/citius/servando/calendula/fragments/MedicinesListFragment.java	2
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/main/java/es/usc/citius/servando/calendula/persistence/PatientAlert.java	3
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/main/java/es/usc/citius/servando/calendula/activities/AllergiesActivity.java	4
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/main/java/es/usc/citius/servando/calendula/activities/ScheduleCreationActivity.java	5
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/main/java/es/usc/citius/servando/calendula/database/DatabaseHelper.java	6
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/main/java/es/usc/citius/servando/calendula/fragments/MedicineCreateOrEditFragment.java	7
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/androidTest/java/es/usc/citius/servando/calendula/activities/AllergiesTest.java	8
+18	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-18/src/main/java/es/usc/citius/servando/calendula/drugdb/download/DownloadDatabaseHelper.java	9

@@ -1,0 +1,1 @@
+2	onApplyDisplay PieChartFragment lambda onCreateDialog 0 AlertController ButtonHandler ChartDisplayDialog dispatchMessage ChartActivity handleMessage Chart ActivityThread Handler NullPointerException Bug     app crash when change view by in report section   EXPECTED BEHAVIOR

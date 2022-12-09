@@ -1,0 +1,6 @@
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/java/com/android/gpstest/NavigationDrawerFragment.java
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/res/drawable/navdrawer_item_selectable_dark.xml
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/res/drawable/navdrawer_item_selectable_light.xml
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/res/layout/navdrawer_item.xml
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/res/values/colors.xml
+/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1147/GPSTest/src/main/res/values/styles.xml

@@ -1,0 +1,10 @@
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/Utilities/SecretKeyWrapper.java	0
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/Utilities/LetterBitmap.java	1
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/Utilities/EntryThumbnail.java	2
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/View/ItemTouchHelper/SimpleItemTouchHelperCallback.java	3
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/View/ItemTouchHelper/ItemTouchHelperViewHolder.java	4
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/View/ItemTouchHelper/ItemTouchHelperAdapter.java	5
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/Activities/SecureCaptureActivity.java	6
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/Utilities/Settings.java	7
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/Receivers/PlainTextBackupBroadcastReceiver.java	8
+128	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/andOTP/app/src/main/java/org/shadowice/flocke/andotp/Receivers/EncryptedBackupBroadcastReceiver.java	9

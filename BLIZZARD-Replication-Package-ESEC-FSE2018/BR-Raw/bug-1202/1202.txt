@@ -1,0 +1,7 @@
+Bug 1202 - [Filter Images] Toast to save current is displayed even when image is saved ### Steps
+- Select few images. Go to `Filter images`
+- Don't add any effect. Select `Brush` option. Draw something. Select `Save current`
+- Now, press right arrow icon. The toast is displayed `Save current first`
+
+### Expected behaviour
+Toast shouldn't be displayed, when image is saved

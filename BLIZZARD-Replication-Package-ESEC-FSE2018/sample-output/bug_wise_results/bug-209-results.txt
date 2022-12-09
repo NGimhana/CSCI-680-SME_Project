@@ -1,0 +1,10 @@
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/androidTest/java/org/gnucash/android/test/ui/CalculatorEditTextTest.java	0
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/main/java/org/gnucash/android/ui/util/widget/CalculatorEditText.java	1
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/main/java/org/gnucash/android/ui/transaction/TransactionFormFragment.java	2
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/main/java/org/gnucash/android/ui/passcode/PasscodeLockActivity.java	3
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/test/java/org/gnucash/android/test/unit/model/RecurrenceTest.java	4
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/main/java/org/gnucash/android/ui/util/widget/CalculatorKeyboard.java	5
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/main/java/org/gnucash/android/ui/export/ExportFormFragment.java	6
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/main/java/org/gnucash/android/ui/util/widget/TransactionTypeSwitch.java	7
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/main/java/org/gnucash/android/db/MigrationHelper.java	8
+209	/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-209/app/src/test/java/org/gnucash/android/test/unit/importer/GncXmlHandlerTest.java	9
