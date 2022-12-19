@@ -169,9 +169,9 @@ def dnn_model_kfold(k=10):
 
     ## This need to be run each time k is changed ##
     # MRR @ K
-    DOCUMENTS_DATA_PATH="/Users/bimalkadesilva/Desktop/CSCI-680-SME_Project/mine/bug-localization-by-dnn-and-rvsm/results/results.csv"
-    ACTUAL_DOCUMENTS_DATA_PATH='/Users/bimalkadesilva/Desktop/CSCI-680-SME_Project/mine/bug-localization-by-dnn-and-rvsm/results/actual_results.csv'
-    PREDICTED_DOCUMENTS_DATA_PATH='/Users/bimalkadesilva/Desktop/CSCI-680-SME_Project/mine/bug-localization-by-dnn-and-rvsm/results/predicted_results.csv'
+    DOCUMENTS_DATA_PATH="../results/results.csv"
+    ACTUAL_DOCUMENTS_DATA_PATH='../results/actual_results.csv'
+    PREDICTED_DOCUMENTS_DATA_PATH='../results/predicted_results.csv'
     
     df_documents = pd.read_csv(DOCUMENTS_DATA_PATH) 
     results = []
@@ -252,7 +252,7 @@ def dnn_model_kfold(k=10):
         predicted_list.append(predicted_relevancy_score)
 
     ## Compute MAP
-    print("MAP@1", cs.mapk(actual_list,predicted_list,k=10))  
+    print("MAP@", cs.mapk(actual_list,predicted_list,k=10))  
 
     hitK_mean_results_list=[]
     ## Compute Mean of Hit@K
