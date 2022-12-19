@@ -18,7 +18,7 @@ This is the Blizzard 1.0.0 source code.
 
 8. Extract the downloaded projects to /path/to/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus.
 
-9. Run IndexLucene-1 to generate Lucene Indexes to projects mentioned on the replication package nadeeshan/projectlist.txt
+9. Run ```IndexLucene-1``` from Eclipse run configurations to generate Lucene Indexes to projects mentioned on the replication package nadeeshan/projectlist.txt
 
 
 
