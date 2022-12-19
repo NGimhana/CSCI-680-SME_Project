@@ -6,6 +6,7 @@ Used many modified and intact code blocks from
 """
 
 from util import *
+from util import PROJECT_ABS_PATH
 from joblib import Parallel, delayed, cpu_count
 import csv
 import os
@@ -79,11 +80,11 @@ def extract_features():
 
     # Read bug reports from tab separated file
     # bug_reports = tsv2dict("../data/Eclipse_Platform_UI.txt")
-    bug_reports = csv2dict_new("/Users/bimalkadesilva/Desktop/CSCI-680-SME_Project/mine/bug-localization-by-dnn-and-rvsm/data/train_questions.csv", "/Users/bimalkadesilva/Desktop/CSCI-680-SME_Project/mine/bug-localization-by-dnn-and-rvsm/data/train_documents.csv")
+    bug_reports = csv2dict_new("../data/train_questions.csv", "../data/train_documents.csv")
     
     # Read all java source files
     # java_src_dict = get_all_source_code("../data/eclipse.platform.ui/bundles/")
-    java_src_dict = get_all_source_code_new("/Users/bimalkadesilva/Desktop/CSCI-680-SME_Project/mine/bug-localization-by-dnn-and-rvsm/data/projects")
+    java_src_dict = get_all_source_code_new(PROJECT_ABS_PATH)
     
     # Use all CPUs except one to speed up extraction and avoid computer lagging
     batches = Parallel(n_jobs=cpu_count() - 1)(

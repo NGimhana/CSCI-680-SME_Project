@@ -1,35 +1,9 @@
 # Bug Localization by Using Bug Reports
 
-- This study and implementation is adapted from the study [*Bug Localization with Combination of Deep Learning and Information Retrieval*](https://ieeexplore.ieee.org/document/7961519).
+Skip to the Run section if you just need to Run the solution with the provided data.
+## Data Set Creation
 
-- Prepared by: *Emre Dogan & Hamdi Alperen Cetin*
-
-## Dataset
-
-- For our implementation, the dataset of *Eclipse UI Platform* is used.
-	- The dataset of source files is created from the [original repository](https://github.com/eclipse/eclipse.platform.ui).
-	- The bug dataset can be accessed from [here](https://github.com/logpai/bugrepo/tree/master/EclipsePlatform).
-
-
-## Approach
-- Before implementing this model, we prepared a survey on the machine learning applications on software bug localization area. You can find the survey from [here](./doc/survey.pdf).
-
-- In previous studies, a cosine similartiy based information retrieval model ,rVSM, has been used and resulted with good top-k accuracy results. In our case, rVSM approach is combined with some other metadata and fed to a deep neural network to conclude withg a relevancy score between a bug report and a source code file. This final relevany scores between all bug reports and source files are kept and top-k accuracy results for k=1,5,10,20 are calculated. In the original study, top-20 accuracy is found to be about 85% where our implementation achieves a 79% top-20 accuracy.
-
-- The top-k accruacy results for different k values from the original study & our study can be seen observed from the figures below.
-
-Original Study                  |  Our Implementation
-:------------------------------:|:------------------------------:
-![](./fig/origResults.png)  |  ![](./fig/ourResults.png)
-
-
-More details regarding to the implementation and results can be found in the [technical report](./doc/final_report.pdf).
-
-
-
-#### Run
-
-1. Download the corpus/projects from https://drive.google.com/drive/folders/1o8DFBHBKTaGLmTs7rDrwpBjX9J6_ZGLS?usp=sharing
+1. Download the corpus(projects) from https://drive.google.com/drive/folders/1o8DFBHBKTaGLmTs7rDrwpBjX9J6_ZGLS?usp=sharing
 
 2. Unzip the projects in to data/projects directory. After unzipping the directory hierachy should be like this,
 --data
@@ -37,14 +11,46 @@ More details regarding to the implementation and results can be found in the [te
 		|--bug-2
 		|--bug-8
 		|--bug-10
-		...
+		|--bug-53
+		|--bug-128
+		|--bug-1096
+		|--bug-1147
 
-3. Get your absolute_path to data/train_documents.csv, data/train_questions.csv
+3. Download the Daset_AndroR2.csv and issues.json from https://drive.google.com/drive/folders/1BKnVBdeN4sok04gXe_n-kWyrwaU0Ck01?usp=sharing. And extract those to data/raw_data directory. Now data folder hierachy should look like this.
+--data
+	|--raw_data
+		|--Dataset_AndroR2.csv
+		|--issues.json
 
-4. src/feature_extraction.py > Replace paths of line 82, 86 with above paths.
+4. Download the bug_fix_json from  https://drive.google.com/drive/folders/1w8A09q9UFXBSnmlThr2sin-JtVtr6kUO?usp=sharing. And extract those to data/bug_fix_json directory. Now data folder hierachy should look like this.
+--data
+	|--bug_fix_json
+		|--2.json
+		|--8.json
+		|--10.json
+		|--53.json
+		|--128.json
+		|--1096.json
+		|--1147.json
 
-5. src/utils.py > do the same changes to paths
+		
 
-6. Run main.py
+5. Update the data_generation_scripts/project_list.txt with the project(bug ids) ids.
+
+6. execute ```python 1_bug_report_generator.py``` to generate raw bug reports to data/BR-Raw.
+
+7. execute ```python 2_query_generator.py``` to generate train_questions.csv to data folder. This is the query we used to train DNN.
+
+8. execute ```python 3_document_generator.py``` to generate train_questions.csv to data folder. This is the corpus document we used to train DNN.
+
+#### Run
+
+1. Navigate to src directory.
+
+2. Update PROJECT_ABS_PATH in util.py. This should be pointing to data/projects directory.
+
+2. execute ```python feature_extraction.py``` to generate the feature file from train_questions and train_documents. This will include the correct files with 50 random incorrect files and compared rSVM scores.
+
+3. execute ```python main.py``` to train and generate results of DNNLOC.
 
 

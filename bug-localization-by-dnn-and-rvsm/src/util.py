@@ -20,6 +20,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 import pandas as pd
 
+### Need to specify this, unless the java src files won't identified ###
+PROJECT_ABS_PATH='/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/bug-localization-by-dnn-and-rvsm/data/projects'
 
 def git_clone(repo_url, clone_folder):
     """ Clones the git repo from 'repo_ur' into 'clone_folder'
@@ -65,7 +67,6 @@ def tsv2dict(tsv_path):
     
     return dict_list
 
-primary_path = "/Users/bimalkadesilva/Desktop/CSCI-680-SME_Project/mine/bug-localization-by-dnn-and-rvsm/data/projects" 
 def csv2dict_new(csv_question_path, csv_documents_path):
     
     dict_list = []
@@ -92,7 +93,7 @@ def csv2dict_new(csv_question_path, csv_documents_path):
         line["files"] = []
         for j in range(len(bug_id_file_url)):
             if bug_id_file_url['bug_id'][j] == bug_report_data.iloc[i,0]:
-                line["files"].append((primary_path + '/bug-' +line['bug_id']+'/' +'/'.join(bug_id_file_url['url'][j].split('/')[1:])))
+                line["files"].append((PROJECT_ABS_PATH + '/bug-' +line['bug_id']+'/' +'/'.join(bug_id_file_url['url'][j].split('/')[1:])))
 
         dict_list.append(line)  
     return dict_list
@@ -390,8 +391,11 @@ def topk_accuarcy(test_bug_reports, sample_dict, br2files_dict, clf=None):
         clf {object} -- A classifier with 'predict()' function. If None, rvsm relevancy is used. (default: {None})
     """
     results = []
-    topk_counters = [0] * 2
+    topk_counters = [0] * 10
     negative_total = 0
+
+    results_dict = {}
+    
     for bug_report in test_bug_reports:
         dnn_input = []
         corresponding_files = []
@@ -417,11 +421,12 @@ def topk_accuarcy(test_bug_reports, sample_dict, br2files_dict, clf=None):
             relevancy_list = np.array(dnn_input).ravel()
 
         top_k_predicted_files = []
+        top_k_predicted_files_results = []
         actual_files = []
         max_indices = []
 
-        ## Top-1, top-2 ... top-20 accuracy
-        for i in range(1, 3):
+        ## Top-1, top-2 ... top-10 accuracy
+        for i in range(1, 11):
             max_indices = np.argpartition(relevancy_list, -i)[-i:]
 
             ## top k predicted files
@@ -430,35 +435,55 @@ def topk_accuarcy(test_bug_reports, sample_dict, br2files_dict, clf=None):
             ## Actual Files
             actual_files = br2files_dict[bug_id]
 
+            top_k_predicted_files_results.append(
+                {'k': i, 'topK_predicted_files': top_k_predicted_files}
+            )
+
             for corresponding_file in np.array(corresponding_files)[max_indices]:
                 if str(corresponding_file) in br2files_dict[bug_id]:
                     topk_counters[i - 1] += 1
                     break
 
+
+        # HIT @ K
+        # Bug Id : Hit@K MRR@K MAP@K
+        # HIT@K
+        results_dict[bug_id] = top_k_predicted_files_results     
+
                    
         results_row={}
-        results_row['predicted_file']=[]
-        results_row['predicted_rvsm']=[]         
+        results_row['url']=[]
+        results_row['predicted_rvsm']=[]  
+        results_row['relevancy_score']=[]       
         for i in range(len(max_indices)):
             results_row['bug_id'] = bug_id
-            results_row['predicted_file'].append(str(top_k_predicted_files[i]) + " ")
+            results_row['url'].append(str(top_k_predicted_files[i]) + " ")
             results_row['predicted_rvsm'].append(str(relevancy_list[max_indices[i]]) + " ")                
-        results.append(results_row)   
+            
+            if str(top_k_predicted_files[i]) in br2files_dict[bug_id]:  
+                results_row['relevancy_score'].append('1')
+            else:
+                results_row['relevancy_score'].append('0')    
+
+        results_row['url'].reverse()
+        results_row['predicted_rvsm'].reverse()
+        results_row['relevancy_score'].reverse()
+        results.append(results_row)
            
     #### This is Average for all the bug reports
-    ## TODO : Hit/MRR/MAP for per bug project
     acc_dict = {}
     for i, counter in enumerate(topk_counters):
         acc = counter / (len(test_bug_reports) - negative_total)
         acc_dict[i + 1] = round(acc, 3)
 
     # csv header
-    fieldnames = ["bug_id", "predicted_file", "predicted_rvsm"]
+    fieldnames = ["bug_id", "url", "predicted_rvsm",'relevancy_score']
 
     # Write Results to CSV
     list_to_csv_write_by_lines('../results/results.csv', fieldnames, results)
 
-    return acc_dict
+    
+    return acc_dict,results_dict
 
 def list_to_csv_write_by_lines(file_name, field_names, results):
     with open(file_name, 'w', newline='') as f:
