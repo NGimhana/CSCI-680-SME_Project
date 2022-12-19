@@ -1,60 +1,24 @@
 # BLIZZARD: Improving IR-Based Bug Localization with Context-Aware Query Reformulation
-Source code of BLIZZARD. [**Complete replication package can be found here**](https://github.com/masud-technope/BLIZZARD-Replication-Package-ESEC-FSE2018)
 
+This is the Blizzard 1.0.0 source code.
 
-Accepted Papers at ESEC/FSE 2018 and ICSE 2018 (Poster)
------------------------------------------------------------
-```
-Improving IR-Based Bug Localization with Context-Aware Query Reformulation
+## Build and Export the executable JAR file
+1. Use Eclipse IDE to import the project as Java Project. (File > Import > General > Import Projects from File System or Archieve)
 
-Mohammad Masudur Rahman and Chanchal K. Roy
-```
-**Download this paper:**  [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ESECFSE2018.pdf)
-     
-```
-Poster: Improving Bug Localization with Report Quality Dynamics and Query Reformulation
-Mohammad Masudur Rahman and Chanchal K. Roy
-```
-**Download this paper** [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSE2018.pdf)  
- 
- 
- Please cite our work as
-------------------------------------------
-```
-@INPROCEEDINGS{fse2018masud, 
-author={Rahman, M. M. and Roy, C. K.}, 
-booktitle={Proc. ESEC/FSE}, 
-title={Improving IR-Based Bug Localization with Context-Aware Query Reformulation}, 
-year={2018}, 
-pages={621-632} 
-}
-```
-**Download this paper** [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ESECFSE2018.pdf)
+2. Change the project's java compiler version to 1.8 (Project Right click > Build Path > Configure Build Path > Libraries > JRE system Library > change this to JDK1.8)
+3. Do a Project Refresh.
 
-```
-@INPROCEEDINGS{icse2018masud, 
-author={Rahman, M. M. and Roy, C. K.}, 
-booktitle={Proc. ICSE-C}, 
-title={Improving Bug Localization with Report Quality Dynamics and Query Reformulation}, 
-year={2018}, 
-pages={348-349} 
-}
-```
-**Download this paper** [<img src="http://homepage.usask.ca/~masud.rahman/img/pdf.png"
-     alt="PDF" heigh="16px" width="16px" />](http://homepage.usask.ca/~masud.rahman/papers/masud-ICSE2018.pdf)
+4. Run > Run Configurations > Java Application. You now should see 3 Java launchers. (IndexLucene-1, QueryGenerator-2, BLIZZARDRunner-3)
 
+5. Change the ```BRICK_EXP``` in StaticData.java to the Working Directory to your BLIZZARD replication package /path/to/BLIZZARD-Replication-Package-ESEC-FSE2018 
 
-Something not working as expected?
-------------------------------------------------------------------------
-Contact: **Masud Rahman** (masud.rahman@usask.ca)
+6. Lets export the build project as a executable JAR. (File > Export > Runnable JAR File. Select BLIZZARDRunner-3 - BLIZZARD as the Launch configuration and select the 2nd option as the Library Handling. Select the export destination as the  BLIZZARD replication package /path/to/BLIZZARD-Replication-Package-ESEC-FSE2018.  
 
-OR
+7. Download the corpus(projects) from https://drive.google.com/drive/folders/1o8DFBHBKTaGLmTs7rDrwpBjX9J6_ZGLS?usp=sharing
 
-Create an issue from [here](https://github.com/masud-technope/BLIZZARD/issues/new)
- 
+8. Extract the downloaded projects to /path/to/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus.
+
+9. Run IndexLucene-1 to generate Lucene Indexes to projects mentioned on the replication package nadeeshan/projectlist.txt
 
 
 
