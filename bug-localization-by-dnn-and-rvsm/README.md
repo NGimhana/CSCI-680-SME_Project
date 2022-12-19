@@ -49,17 +49,17 @@ Skip to the Run section if you just need to Run the solution with the provided d
 
 2. Update PROJECT_ABS_PATH in util.py. This should be pointing to data/projects directory.
 
-2. execute ```python feature_extraction.py``` to generate the feature file from train_questions and train_documents. This will include the correct files with 50 random incorrect files and compared rSVM scores.
+3. execute ```python feature_extraction.py``` to generate the feature file from train_questions and train_documents. This will include the correct files with 50 random incorrect files and compared rSVM scores.
 
-3. execute ```python main.py``` to train and generate results of DNNLOC.
+4. execute ```python main.py``` to train and generate results of DNNLOC.
 
-4. If you need to generate MRR@K, MAP@K for multiple k values follow below steps.
+5. If you need to generate MRR@K, MAP@K for multiple k values follow below steps.
 
-4.1 change ```topk_counters = [0] * K ``` . This is in util.py (line 394) where K >= 2
-4.2 change ```for i in range(1, K+1):``` . This is in util.py (line 429) where K  >= 2
-4.3 change ``` for j in range(0,9): ```. This is in dnn_model.py (line 260). The exising one is for Hit@K K = 2-10
-4.5 change ```print("MAP@", cs.mapk(actual_list,predicted_list,k=K)) ``` . This is in dnn_model.py (line 255). K >= 2 
-4.6 All the MRR/MAP are calculated manualy. So follow the commented lines to generate more results. (TODO This will be automated) 
+* change ```topk_counters = [0] * K ``` . This is in util.py (line 394) where K >= 2
+* change ```for i in range(1, K+1):``` . This is in util.py (line 429) where K  >= 2
+* change ``` for j in range(0,9): ```. This is in dnn_model.py (line 260). The exising one is for Hit@K K = 2-10
+* change ```print("MAP@", cs.mapk(actual_list,predicted_list,k=K)) ``` . This is in dnn_model.py (line 255). K >= 2 
+* All the MRR/MAP are calculated manualy. So follow the commented lines to generate more results. (TODO This will be automated) 
 
 #### Results
 The results can be found under ```results``` directory. HIT@K, MAP@K and MRR@K, here K= {2,3,4,5,6,7,8,9,10}
