@@ -1,7 +1,8 @@
 import matplotlib.pyplot as plt
 import csv
+import os
 
-WORKING_DIR='/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/sample-output/results'
+WORKING_DIR=os.getcwd()+"/sample-output/results"
 
 field_names = [[],['project_name', 'Hit@1' , 'MRR@1' ,'MAP@1'],
 ['project_name', 'Hit@2' , 'MRR@2' ,'MAP@2'],
@@ -55,7 +56,7 @@ for j in range(1,11,1):
     for i in range(0,len(lines)-3,4):
         results_row = {}
         results_row['project_name'] = lines[i].split(":")[1] 
-
+        
         results_row[field_names[j][1]] = lines[i+1].split(":")[1]
         hit_tot = hit_tot + float(lines[i+1].split(":")[1])
 

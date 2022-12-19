@@ -1,13 +1,13 @@
 #!/bin/bash
 
-WORKING_DIR='/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018'
+WORKING_DIR="$PWD"
 
 
 filename=${WORKING_DIR}/nadeeshan/projectList.txt
 n=1
 projectList=()
 ## Project List
-while read line; do
+while IFS= read -r line || [ -n "$line" ]; do
     projectList+=(${line})
 done < $filename
 

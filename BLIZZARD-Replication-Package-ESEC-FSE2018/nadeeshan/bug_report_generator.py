@@ -6,7 +6,7 @@ import csv
 df = pd.read_csv('Dataset_ AndroR2.csv', usecols=['ID','GitHub Issue'])
 
 ## Write file_data objects to bug files
-root_location = "/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/BR-Raw"
+root_location = "../BR-Raw"
 
 json_data = [] # your list with json objects (dicts)
 with open('issues.json') as json_file:
@@ -56,25 +56,35 @@ def main():
    #    projectList.write(name +'\n') 
    # projectList.close()
 
+   # project list
+   project_file = open('projectList.txt','r')
+   temp_projects  = project_file.read().splitlines()
+   projects = []
+   
+   for project in temp_projects:
+      projects.append(project.split("-")[1])
+
    finished_list = []
    ## create directories in BR-Raw folder
    for directory in directory_names:
-      dir_path = root_location + '/bug-' + str(directory)
-      if not os.path.exists(dir_path):
-         os.mkdir(dir_path)
+      if str(directory) in projects:
+         dir_path = root_location + '/bug-' + str(directory)
+         if not os.path.exists(dir_path):
+            os.mkdir(dir_path)
       
    for issue in issues['issues']:
       bug_id = url_bug_id_dict[issue['url']]
-      if not bug_id in finished_list:
-         file_path = root_location + '/bug-' +str(bug_id) + "/" + str(bug_id) + ".txt"
-         bug_file = open(file_path, 'w')
-         bug_report_content = "Bug " + str(bug_id) + " - " + issue['body']  
-         bug_file.write(bug_report_content)
-         bug_file.close()
-         finished_list.append(bug_id)
+      if str(bug_id) in projects:
+         if not bug_id in finished_list:
+            file_path = root_location + '/bug-' +str(bug_id) + "/" + str(bug_id) + ".txt"
+            bug_file = open(file_path, 'w')
+            bug_report_content = "Bug " + str(bug_id) + " - " + issue['body']  
+            bug_file.write(bug_report_content)
+            bug_file.close()
+            finished_list.append(bug_id)
 
 
-# Uncomment to run the script
+# # Uncomment to run the script
 main()
 
    

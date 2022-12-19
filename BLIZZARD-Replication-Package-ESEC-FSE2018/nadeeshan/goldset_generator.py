@@ -4,12 +4,17 @@ import os
 import  json
 import bug_report_generator as brg
 
-root_location = "/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018"
+root_location = "/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018"
 
 
 ## Issue List
-issue_id_list_file = open(root_location + '/sample-input/andror2-bugs.txt')
-issues = issue_id_list_file.read().splitlines()
+issue_id_list_file = open(root_location + '/nadeeshan/projectList.txt')
+temp_issues = issue_id_list_file.read().splitlines()
+
+issues = []
+   
+for issue in temp_issues:
+    issues.append(issue.split("-")[1])
 
 ## Navigate in BugLocation JSON files dir - Check JSON validation first!!
 dir_list = os.listdir(root_location + '/nadeeshan/BugLocation-JSON-Files')
