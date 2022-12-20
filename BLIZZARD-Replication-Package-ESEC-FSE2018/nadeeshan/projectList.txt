@@ -1,11 +1,7 @@
 bug-2
 bug-8
 bug-10
-bug-18
 bug-53
 bug-128
-bug-209
-bug-1073
 bug-1096
 bug-1147
-bug-1202
