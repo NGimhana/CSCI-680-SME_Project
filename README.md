@@ -1,4 +1,4 @@
-### CSCI-680 - Software Maintenance & Evolution
+### CSCI-680 - Software Maintenance & Evolution Project
 
 This project concentrates on bug localization for Android apps where bugs are displayed on the mobile screen. While there are several previous works done in bug localization based on the same domain, our intention is to propose a baseline technique for bug localization in Android apps to address the research question, “Do we have a bug localization technique that can retrieve buggy code files and methods for GUI-based bugs in Android apps?” To answer this question we created Android-based ground Truth data set and implemented one of the previous TR-based Bug localization approaches called BLIZZARD with our data set. The result of this implementation then has been compared with the DNN-based model that we proposed for localizing buggy elements in Android apps. Both of the implementations have
 been evaluated based on MAP, MRR, and HIT@K matrices
