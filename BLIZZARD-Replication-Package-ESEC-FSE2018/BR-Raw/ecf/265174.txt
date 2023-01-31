@@ -1,3 +1,0 @@
-Bug 265174 – Visual distinction between Synchronized and Non-Sync diagrams
-It should be right clear for the user to define whether a diagram synchronized or not.
-For instance, overlay the exiting package/model icon with image of letter 'S'.

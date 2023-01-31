@@ -1,2 +1,0 @@
-Bug 62323 – Editor leak by PopupInspectAction
-Attachment with paths from GC roots follows shortly.

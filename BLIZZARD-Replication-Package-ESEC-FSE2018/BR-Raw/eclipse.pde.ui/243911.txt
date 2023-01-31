@@ -1,2 +1,0 @@
-Bug 243911 – Adopt Ant API
-Take advantage of the new IAntLaunchConfigurationConstants

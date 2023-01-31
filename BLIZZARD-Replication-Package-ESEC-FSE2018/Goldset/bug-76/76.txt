@@ -1,0 +1,4 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-76/app/src/main/java/com/genonbeta/TrebleShot/adapter/FileListAdapter.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-76/app/src/main/java/com/genonbeta/TrebleShot/fragment/FileListFragment.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-76/app/src/main/java/com/genonbeta/TrebleShot/fragment/FileListFragment.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-76/app/src/main/res/layout/layout_connection_options_fragment.xml

@@ -1,3 +1,0 @@
-Bug 197604 – [IRC] kick, ban, unban, op, deop commands cause parse error.
-Please see the attached test...
-IRC version from HEAD.

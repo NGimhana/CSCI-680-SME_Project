@@ -17,7 +17,7 @@ Skip steps (1 - 9) if you need to run the Blizzard with exisiting data.
     |--issues.json
     |--BugLocation-JSON-Files
 
-2. Download the bug_fix_json from  https://drive.google.com/drive/folders/1w8A09q9UFXBSnmlThr2sin-JtVtr6kUO?usp=sharing. And extract those to ```nadeeshan/BugLocation-JSON-Files directory. Now data folder hierachy should look like this.
+2. Download the bug_fix_json from  https://github.com/jmahmud47/FaultLocalizationCode/tree/main/data/JSON-Files-All. And extract those to ```nadeeshan/BugLocation-JSON-Files directory. Now data folder hierachy should look like this.
 --nadeeshan
 	|--BugLocation-JSON-Files
 		|--2.json
@@ -42,5 +42,5 @@ Skip steps (1 - 9) if you need to run the Blizzard with exisiting data.
 
 9. Execute ```./3_blizzard_runner.sh``` to run Blizzard and generate results (Clear sample-output/bug_wise_results and sample-output/results directories before execute)
 
-10. Execute ```python 4_results_generator.py``` to generate results
+10. Execute ```python 4_results_generator.py``` to generate results (works only with K <= 10)
 

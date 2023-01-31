@@ -1,0 +1,6 @@
+Bug 1445 - Can't edit dates for a Trip **Reproduction Steps**
+* Create Trip
+* Edit Trip
+* Modify date
+* Press Save
+* Observe error

@@ -1,0 +1,2 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-248/collect_app/src/main/java/org/odk/collect/android/preferences/GeneralPreferencesFragment.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-248/collect_app/src/main/java/org/odk/collect/android/preferences/GeneralPreferencesFragment.java

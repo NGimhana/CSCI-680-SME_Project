@@ -1,0 +1,8 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1641/app/src/main/java/com/german_software_engineers/trainerapp/ExerciseViewActivity.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1641/app/src/main/java/com/german_software_engineers/trainerapp/GeneralTrainingScheduleEditor.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1641/app/src/main/java/com/german_software_engineers/trainerapp/GeneralTrainingScheduleEditor.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1641/app/src/main/res/values/strings.xml
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1641/trainerappmodel/src/main/java/com/german_software_engineers/trainerappmodel/Enumerations/TrainingsTypes.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1641/trainerappmodel/src/main/java/com/german_software_engineers/trainerappmodel/Model/XMLParser.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1641/trainerappmodel/src/main/java/com/german_software_engineers/trainerappmodel/Model/XMLParser.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1641/trainerappmodel/src/main/java/com/german_software_engineers/trainerappmodel/Legacy/Schedule.java

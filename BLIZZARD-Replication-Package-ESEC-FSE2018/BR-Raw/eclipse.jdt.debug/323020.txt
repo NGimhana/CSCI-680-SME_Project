@@ -1,1 +1,0 @@
-Bug 323020 – EE home test failure on Mac

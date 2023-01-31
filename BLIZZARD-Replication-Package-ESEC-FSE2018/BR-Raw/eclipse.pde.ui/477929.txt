@@ -1,1 +1,0 @@
-Bug 477929 – Remove whitespace from PDE API tools test plug-in

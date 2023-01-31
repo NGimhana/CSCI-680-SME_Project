@@ -1,2 +1,0 @@
-Bug 426531 – [category] Specify repository references (additional repositories) in category.xml editor
-The category editor should allow for references to be specified.

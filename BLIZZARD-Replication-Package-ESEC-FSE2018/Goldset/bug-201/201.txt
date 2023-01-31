@@ -1,0 +1,1 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-201/iNaturalist/src/main/java/org/inaturalist/android/ObservationListActivity.java

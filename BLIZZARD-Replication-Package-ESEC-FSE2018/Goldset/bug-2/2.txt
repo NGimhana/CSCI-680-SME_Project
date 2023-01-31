@@ -1,2 +1,2 @@
-/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/chart/fragment/HorizontalBarChartFragment.java
-/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/chart/fragment/PieChartFragment.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/chart/fragment/HorizontalBarChartFragment.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-2/app/src/main/java/io/github/zwieback/familyfinance/business/chart/fragment/PieChartFragment.java

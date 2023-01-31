@@ -1,0 +1,4 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-92/app/src/main/java/com/vrem/wifianalyzer/vendor/model/VendorDB.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-92/app/src/main/java/com/vrem/wifianalyzer/vendor/model/VendorDB.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-92/app/src/main/java/com/vrem/wifianalyzer/vendor/model/VendorDB.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-92/app/src/main/java/com/vrem/wifianalyzer/vendor/model/VendorDB.java

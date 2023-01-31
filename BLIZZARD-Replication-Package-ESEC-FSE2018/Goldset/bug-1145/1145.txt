@@ -1,1 +1,0 @@
-/Users/bimalkadesilva/Documents/Fall2022/CSCI680-SME/Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1145/GPSTest/src/main/res/layout/benchmark_motion_layout.xml

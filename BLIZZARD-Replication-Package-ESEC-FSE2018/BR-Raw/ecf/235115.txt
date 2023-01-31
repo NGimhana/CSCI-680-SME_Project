@@ -1,2 +1,0 @@
-Bug 235115 – [Discovery][SLP] JSLPDiscoveryContainer.getServiceInfo(IServiceID) does not fully honor IServiceID.getServiceName()
-JSLPDiscoveryContainer.getServiceInfo(IServiceID) only compares the InetAddress which fails if the IServiceID examples uses more URI "features".

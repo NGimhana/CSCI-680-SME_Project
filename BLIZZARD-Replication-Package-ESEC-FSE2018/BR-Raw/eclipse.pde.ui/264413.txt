@@ -1,3 +1,0 @@
-Bug 264413 – [target] Broken buttons on plug-in import wizard (source code locations & environment)
-The plug-in import wizard has two buttons that link to old target platform prefenence page settings (source locations and environment).
-We need these to work properly with the new preference page.

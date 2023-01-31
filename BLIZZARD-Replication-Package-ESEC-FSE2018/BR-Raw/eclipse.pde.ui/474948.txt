@@ -1,1 +1,0 @@
-Bug 474948 – [Templates] Update Hello RCP template to Java 1.7

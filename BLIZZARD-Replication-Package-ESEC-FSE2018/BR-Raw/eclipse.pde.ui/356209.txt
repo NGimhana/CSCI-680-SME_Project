@@ -1,4 +1,0 @@
-Bug 356209 – [Compatibility] HandlerUtil.getActiveShell gives me always the parent (Workbench) Shell
-Build Identifier: 4.1
-If I open a Dialog and hit a key binding I never get the Dialog's Shell.
-Reproducible: Always

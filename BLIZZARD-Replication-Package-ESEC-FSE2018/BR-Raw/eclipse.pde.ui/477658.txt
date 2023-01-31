@@ -1,1 +1,0 @@
-Bug 477658 – Use multi-catch in FeatureExportOperation line 189 and log the error

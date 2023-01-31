@@ -1,0 +1,3 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1563/app/src/main/java/io/lerk/lrkFM/activities/FileActivity.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1563/app/src/main/java/io/lerk/lrkFM/activities/FileActivity.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1563/app/src/main/java/io/lerk/lrkFM/activities/FileActivity.java

@@ -1,2 +1,0 @@
-Bug 267710 – [toString] finish toString() builder wizard
-See bug 26070.

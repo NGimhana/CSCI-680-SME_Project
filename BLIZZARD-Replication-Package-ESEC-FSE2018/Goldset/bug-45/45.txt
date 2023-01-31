@@ -1,0 +1,2 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-45/omniNotes/src/main/java/it.feio.android.omninotes.helpers/GeocodeProviderBaseFactory.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-45/omniNotes/src/main/res/values/strings.xml

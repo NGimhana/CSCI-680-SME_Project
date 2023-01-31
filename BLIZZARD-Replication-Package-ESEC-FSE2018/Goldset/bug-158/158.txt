@@ -1,0 +1,2 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-158/AnkiDroid/src/main/java/com/ichi2/anki/AbstractFlashcardViewer.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-158/AnkiDroid/src/main/java/com/ichi2/themes/Themes.java

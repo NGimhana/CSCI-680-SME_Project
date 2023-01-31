@@ -1,3 +1,0 @@
-Bug 66787 – Wrong capitalized filters message [search]
-I20040611
-The message should be Filters matched not Filters Matched

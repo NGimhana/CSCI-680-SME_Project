@@ -1,1 +1,0 @@
-Bug 480743 – Remove unnecessary whitespace from eclipse.pde.api.tools

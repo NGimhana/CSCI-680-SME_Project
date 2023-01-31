@@ -1,0 +1,7 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-135/app/src/main/java/fr/free/nrw/commons/category/SubCategoryListFragment.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-135/app/src/main/java/fr/free/nrw/commons/explore/categories/SearchCategoriesAdapterFactory.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-135/app/src/main/java/fr/free/nrw/commons/explore/categories/SearchCategoriesRenderer.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-135/app/src/main/java/fr/free/nrw/commons/explore/categories/SearchCategoriesRenderer.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-135/app/src/main/java/fr/free/nrw/commons/explore/categories/SearchCategoriesRenderer.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-135/app/src/main/java/fr/free/nrw/commons/explore/categories/SearchCategoriesRenderer.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-135/app/src/main/java/fr/free/nrw/commons/explore/categories/SearchCategoryFragment.java

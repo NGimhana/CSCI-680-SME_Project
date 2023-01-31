@@ -1,3 +1,0 @@
-Bug 90612 – Forbidden types must not be available in Code Assist
-Types that are not accessible and are forbidden on a project's classpath must
-not be available as choices in the code assist popup.

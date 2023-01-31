@@ -1,3 +1,0 @@
-Bug 7858 – Feature: gets super class for an IJavaClassType
-Developers of the 'super debug adapter' need access to the superclass of an
-IJavaClassType.

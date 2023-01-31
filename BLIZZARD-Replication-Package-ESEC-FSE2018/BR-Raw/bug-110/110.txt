@@ -1,0 +1,22 @@
+Bug 110 - Artist's names missing - all over the app **Describe the bug**
+I only started using this app recently so I don't know when this issue occured first time. On any list in the app there are no artist names present. Not even in the artist tab - there are song names listed there instead.
+
+Music app from MaxFour and also Phonograph that are obviously based on similar core doesn't have this problem. Artist's names are well seen anywhere around.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Open app
+2. Try to spot some artist anywhere
+3. They're never written anywhere
+
+**Screenshots**
+![artistsgone11](https://user-images.githubusercontent.com/2994878/95647527-6c37be80-0ad0-11eb-8c7d-7170d2fcfae4.png)
+![artistsgone22](https://user-images.githubusercontent.com/2994878/95647530-6e9a1880-0ad0-11eb-91ad-cf1fed93998b.png)
+![artistsgone33](https://user-images.githubusercontent.com/2994878/95647532-71950900-0ad0-11eb-88d0-d23bf18d7d04.png)
+
+
+**Smartphone (please complete the following information):**
+ - Device: Pixel 3
+ - Android Version: 11
+ - ROM: GrapheneOS (a security hardened AOSP)
+ - Vinyl Music Player Version: latest F-Droid

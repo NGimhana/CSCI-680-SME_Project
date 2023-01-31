@@ -1,2 +1,0 @@
-Bug 255308 – [Discovery][SLP] Delay JSLPDiscoveryJob until first ServiceListener registers
-Do not activate the JSLPDiscoveryJob until there is a ServiceListener that is interested.

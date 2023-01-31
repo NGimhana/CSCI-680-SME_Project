@@ -1,3 +1,0 @@
-Bug 326228 – [Discovery][JmDNS] Upgrade to JmDNS 3.x
-JmDNS has received a bunch of enhancements since 2.x.
-Thus we should upgrade to the 3.x code base.

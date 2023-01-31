@@ -1,3 +1,0 @@
-Bug 406478 – [implementation][content assist] Use enhanced for loop for CompletionProposalCollector and CompletionProposalCategory
-I suggest to use the foreach loop in ContentAssistProcessor.
-Patch to follow soon.

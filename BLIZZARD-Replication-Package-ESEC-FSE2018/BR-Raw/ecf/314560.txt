@@ -1,2 +1,0 @@
-Bug 314560 – [Discovery][DNS-SD] Replace personal test domain with dnssd.ecf-project.org
-Replace personal test domain with dnssd.ecf-project.org

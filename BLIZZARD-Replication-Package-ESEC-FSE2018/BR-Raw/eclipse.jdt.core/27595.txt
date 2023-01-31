@@ -1,3 +1,0 @@
-Bug 27595 – Add isOnClasspath(IResource) as API
-Build 20021127
-JDT/UI needs to have isOnClasspath(IResource) as API.

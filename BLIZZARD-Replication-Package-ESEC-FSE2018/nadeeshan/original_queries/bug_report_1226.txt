@@ -1,0 +1,1 @@
+app crash after create account with byn currency step reproduce the behaviour create account with byn currency hit save expect behaviour account create and account list show actual behaviour app crash any further attempt start the app cause crash software specification gnu cash android version system android version device type all

@@ -5,14 +5,14 @@
 	{
 		"commit_ids": ["73c73f21ffecbdec2d35bae8e0472980572af8e5"],
 		"file_name": "markor/app/src/main/java/net/gsantner/markor/ui/NewFileDialog.java",
-		"method_name": "@SuppressLint(SetTextI18n) private AlertDialog.Builder makeDialog(final File basedir, LayoutInflater inflater)",
+		"method_name": "@SuppressLint('SetTextI18n') private AlertDialog.Builder makeDialog(final File basedir, LayoutInflater inflater)",
 		"line_numbers": null
 	}],
 	"fix_location": [
 	{
 		"commit_ids": ["fdbb78056f9a80f1623bf17a2942c741f3ba6f07"],
 		"file_name": "markor/app/src/main/java/net/gsantner/markor/ui/NewFileDialog.java",
-		"method_name": "@SuppressLint(SetTextI18n) private AlertDialog.Builder makeDialog(final File basedir, LayoutInflater inflater)",
+		"method_name": "@SuppressLint('SetTextI18n') private AlertDialog.Builder makeDialog(final File basedir, LayoutInflater inflater)",
 		"line_numbers": ["118", "120"]
 	},
 	{

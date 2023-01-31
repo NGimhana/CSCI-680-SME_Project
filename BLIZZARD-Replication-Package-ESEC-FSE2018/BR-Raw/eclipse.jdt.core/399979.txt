@@ -1,1 +1,0 @@
-Bug 399979 – [1.8][compiler] Statement expressions should be allowed in non-block lambda body when return type is void

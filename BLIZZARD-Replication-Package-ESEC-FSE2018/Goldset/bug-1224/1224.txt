@@ -1,0 +1,1 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-1224/app/src/main/java/org/gnucash/android/ui/account/AccountFormFragment.java

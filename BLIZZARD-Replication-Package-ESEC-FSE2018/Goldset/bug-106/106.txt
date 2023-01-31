@@ -1,0 +1,3 @@
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-106/app/src/main/java/com/poupa/vinylmusicplayer/loader/SongLoader.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-106/app/src/main/java/com/poupa/vinylmusicplayer/util/FileUtil.java
+/Users/bimalkadesilva/Desktop/Final-SME/CSCI-680-SME_Project/BLIZZARD-Replication-Package-ESEC-FSE2018/Corpus/bug-106/app/src/main/java/com/poupa/vinylmusicplayer/util/FileUtil.java

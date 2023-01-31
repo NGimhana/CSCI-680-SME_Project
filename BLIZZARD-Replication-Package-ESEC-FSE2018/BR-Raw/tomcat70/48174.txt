@@ -1,2 +1,0 @@
-48174 – org.apache.tomcat.jni.Address.APR_ANYADDR should be final
-org.apache.tomcat.jni.Address.APR_ANYADDR should be final

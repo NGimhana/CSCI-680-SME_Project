@@ -1,0 +1,12 @@
+Bug 191 - Negative Credits Steps to reproduce
+- start any game
+- drag+drop any defence towers you like, credits < 0 are possible
+
+Yay my most successful round ever! But takes the fun away :(
+Not sure whether it actually goes down to -∞ or has some negative limit
+
+Version 0.2-1 (F-Droid)
+Android 6.0.1
+
+Example:
+![tmp_14897-screenshot_20170210-233748-315063243](https://cloud.githubusercontent.com/assets/16524907/22848136/15ba176a-efea-11e6-8623-c5199fb9a512.png)

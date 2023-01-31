@@ -1,2 +1,0 @@
-Bug 317994 – [Discovery][DNS-SD] TSIG key requires a corresponding key name
-TSIG key requires a corresponding key name

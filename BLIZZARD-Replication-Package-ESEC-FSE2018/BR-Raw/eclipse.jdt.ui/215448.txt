@@ -1,3 +1,0 @@
-Bug 215448 – New working set doesn't appear in Working Set List
-Newly created working set doesn't appear in Working Set List.
-To see it you must reopen Select Working Set dialog.
